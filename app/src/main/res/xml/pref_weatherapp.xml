@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="@string/show_temp_settings_key"
+        android:summaryOff="@string/hided"
+        android:summaryOn="@string/visible"
+        android:title="@string/show_first_set"/>
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="@string/show_wind_settings_key"
+        android:summaryOff="@string/hided"
+        android:summaryOn="@string/visible"
+        android:title="@string/show_second_set"/>
+
+    <ListPreference
+        android:defaultValue="@string/pref_color_label_red_value"
+        android:entries="@array/pref_color_options_labels"
+        android:entryValues="@array/pref_color_optinons_values"
+        android:key="@string/pref_color_label_key"
+        android:title="@string/pref_color_label"/>
+
+</PreferenceScreen>

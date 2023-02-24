@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="true">Weather_Report</string>
+    <string name="actions_settings" translatable="true">Settings</string>
+    <string name="show_temp_settings_key" translatable="false">show_temp</string>
+    <string name="hided" translatable="true">Hidden</string>
+    <string name="visible" translatable="true">Visible</string>
+    <string name="show_first_set" translatable="true">Pressure</string>
+
+    <string name="show_wind_settings_key" translatable="false">show_pressure</string>
+    <string name="show_second_set" translatable="true">Temperature</string>
+
+    <string name="pref_color_label" translatable="true">Shape Color</string>
+    <string name="pref_color_label_red" translatable="true">Red</string>
+    <string name="pref_color_label_blue" translatable="true">Blue</string>
+    <string name="pref_color_label_green" translatable="true">Green</string>
+    <string name="pref_color_label_key" translatable="false">color</string>
+    <string name="pref_color_label_red_value" translatable="false">red</string>
+    <string name="pref_color_label_blue_value" translatable="false">blue</string>
+    <string name="pref_color_label_green_value" translatable="false">green</string>
+</resources>

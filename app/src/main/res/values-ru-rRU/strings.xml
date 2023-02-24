@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Прогноз погоды УЛЬЯНА ЭДИШН</string>
+    <string name="actions_settings">Настройки</string>
+    <string name="hided">Скрыто</string>
+    <string name="show_first_set">Давление</string>
+    <string name="show_second_set">Температура</string>
+    <string name="pref_color_label">Выбор цвета</string>
+    <string name="pref_color_label_red">Красный</string>
+    <string name="pref_color_label_blue">Синий</string>
+    <string name="pref_color_label_green">Зелёный</string>
+    <string name="visible">Показано</string>
+</resources>
